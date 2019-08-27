@@ -4,7 +4,7 @@
 
 body{
     margin-left: none;
-    background-image: url("../../img/lampada.jpg");
+    background-image: url("../../img/careca.jpg");
     background-attachment: fixed;
     background-repeat: round;
     background-size:cover;
@@ -74,3 +74,19 @@ padding: 3.75px;
     color: white;
 }
 
+.table-dark {
+    color: #fff;
+    background-color: #343a40e0;
+}
+
+.jumbotron {
+    background-color: #4a4744c9;
+}
+
+input, select {
+background-color: #0000003b;
+}
+
+.alert-danger, .alert-primary  {
+    background-color: #3c3c3c7a;
+}

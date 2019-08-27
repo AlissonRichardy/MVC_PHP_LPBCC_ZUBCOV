@@ -2,7 +2,7 @@
 include_once("../conexao/conexao.php");
 require_once("navBar.html")
 ?>
-
+<title>CLIENTES</title>
 
 <div class="container">
     <h1 class="text-center alert alert-primary" >Listagem de Clientes</h1>

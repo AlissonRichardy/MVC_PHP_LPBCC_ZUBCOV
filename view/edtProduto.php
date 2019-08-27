@@ -17,7 +17,7 @@ $quantidade = $data['quantidade'];
 banco::desconectar();
 
 ?>
-
+<title>EDITAR PRODUTO</title>
 
 
     <div class="container" style="margin-top: 30px;margin-bottom: 0px;">

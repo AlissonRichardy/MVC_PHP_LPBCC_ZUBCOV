@@ -2,7 +2,7 @@
 include_once("../conexao/conexao.php");
 require_once("navBar.html")
 ?>
-
+<title>CADASTRO PRODUTO</title>
 
 <div class="container" style="margin-top: 30px;margin-bottom: 0px;">
     <form action="regProdutoBanco.php" method="POST"  name="cadProduto" id="cadProduto">

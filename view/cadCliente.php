@@ -2,6 +2,7 @@
 include_once("../conexao/conexao.php");
 require_once("navBar.html")
 ?>
+<title>CADASTRO CLIENTE</title>
 
 
 <div class="container" style="margin-top: 30px;margin-bottom: 0px;">
@@ -17,8 +18,8 @@ require_once("navBar.html")
 
                 <select name="sexo" id="cEst" style="width: 185px" >
                     <option value="Feminino">Feminino</option>
-                    <option value="Masculino" selected>Masculino</option>
-                    <option value="ND">Nao definido</option>
+                    <option value="Masculino">Masculino</option>
+                    <option value="ND" selected>Nao definido</option>
                 </select>
 
                 <div style="width:200px;display:inline;">

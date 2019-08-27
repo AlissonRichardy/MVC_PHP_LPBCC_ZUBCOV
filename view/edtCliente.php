@@ -17,7 +17,7 @@ $status = $data['status'];
 banco::desconectar();
 
 ?>
-
+<title>EDITAR CLIENTE</title>
 
 
     <div class="container" style="margin-top: 30px;margin-bottom: 0px;">
@@ -34,8 +34,8 @@ banco::desconectar();
 
                     <select name="sexo" id="cEst" style="width: 185px" value="<?php echo $sexo; ?>">
                         <option value="Feminino">Feminino</option>
-                        <option value="Masculino" selected>Masculino</option>
-                        <option value="ND">Nao definido</option>
+                        <option value="Masculino" >Masculino</option>
+                        <option value="ND" selected>Nao definido</option>
                     </select>
 
                     <div style="width:200px;display:inline;">
