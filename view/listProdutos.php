@@ -5,7 +5,9 @@ require_once("navBar.html");
 ?>
 
 
-<h1 style="text-align:center">Listagem de Produtos</h1>
+<div class="container">
+    <h1 class="text-center alert alert-primary" >Listagem de Produtos</h1>
+</div>
 <div style="margin-bottom: 15px;">
 <div class="text-center">
         <button class="btn btn-info fa fa-plus-circle text-center" title="Adicionar novo cliente"

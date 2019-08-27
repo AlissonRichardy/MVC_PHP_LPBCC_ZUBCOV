@@ -1,6 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Russo+One&display=swap');
+
+
 body{
     margin-left: none;
+    background-image: url("../../img/lampada.jpg");
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size:cover;
     
+
+    
+}
+h1 {
+    /*font-family: 'Open Sans', sans-serif;*/
+    font-family: 'Russo One', sans-serif;
+}
+a {
+    font-family: 'Open Sans', sans-serif;
+    color: rgba(255, 242, 242, 0.9);
+
+}
+a:hover {
+    font-family: 'Russo One', sans-serif;
+   
+}
+
+.body-color {
+    background-color: #59476b; /*#525152, #271b33, #25312c, #672424, #8e1886 */
 }
 
 .background-img {
@@ -9,6 +36,7 @@ body{
     position: absolute;
     width: 200px;
     margin-top: 50px;
+    z-index: 999;
   
 }
 
@@ -26,3 +54,23 @@ padding: 3.75px;
     margin-left: 45%;
     margin-top: 2%;   
 }
+
+
+.bg-light {
+    background-color: #00000061!important;;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: white;
+}
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: white;
+}
+
