@@ -1,0 +1,28 @@
+body{
+    margin-left: none;
+    
+}
+
+.background-img {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 200px;
+    margin-top: 50px;
+  
+}
+
+.table th, .table td {
+padding: 3.75px;
+}
+
+.title-impact {
+    font-family: 'Impact';
+    font-size: 26px;
+    font-weight: bold;
+}
+.imgteste {
+    position: absolute;
+    margin-left: 45%;
+    margin-top: 2%;   
+}

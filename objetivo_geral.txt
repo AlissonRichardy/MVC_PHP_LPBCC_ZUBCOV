@@ -1,0 +1,19 @@
+#Trabalho PHP 
+3 tabelas e uma uma movimentacao
+
+
+#Cadastro de Clientes
+#Cadastro de produtos
+#Cadastro de venda (relação com clientes)
+
+
+
+
+# Progressos
+
+-> CRUD completo de produto e clientes OK
+
+--> implementar regra de negocio e deixar padrao MVC
+
+--> fazer crud de vendas 
+
